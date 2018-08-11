@@ -1,4 +1,4 @@
-;; rs-gnus-summary.el -- Auxiliary summary mode commands for Gnus
+;;; rs-gnus-summary.el --- Auxiliary summary mode commands for Gnus
 ;; $Id: rs-gnus-summary.el,v 1.29 2007/10/20 15:00:06 ste Exp $
 
 ;; Author: Reiner Steib <Reiner.Steib@gmx.de>
